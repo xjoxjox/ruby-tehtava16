@@ -1,3 +1,5 @@
+#moduuli siirrettava
+
 module Siirrettava
   def siirraPisteeseen(x,y)
     @x = x
